@@ -1,0 +1,5 @@
+[package]
+name = "rusty-vulkan"
+version = "0.1.0"
+authors = ["Brian MacMonigle <brian.macmonigle@gmail.com>"]
+edition = "2018"
